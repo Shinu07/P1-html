@@ -1,0 +1,27 @@
+html{
+    font-size:20px;
+    
+}
+
+body{
+    background-color:#333;
+    color: whitesmoke;
+font-family: sans-serif;
+}
+
+a{
+    color: rgb(7, 111, 202);
+}
+a:visited{
+color: rgb(204, 228, 247);
+}
+ a:hover, a:active{
+color: rgb(212, 192, 166);
+}
+
+table , tr, th,td, caption{
+    border: 1px solid white;
+    font-family: sans-serif;
+    border-collapse:collapse ;
+    padding: 1rem;
+}
