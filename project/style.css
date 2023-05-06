@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+*{
+    background-color: antiquewhite;
+    font-family: poppins;
+}
+
+a{
+    color: rgb(7, 111, 202);
+}
+a:visited{
+color: rgb(31, 124, 157);
+}
+ a:hover, a:active{
+color: rgb(97, 234, 220);
+}
+
+img{
+    border-radius: 0.5rem;
+}
+
+table, tr, th, td,caption{
+ border: 1.5px solid rgb(146, 52, 5);
+ padding:1rem;
+ border-collapse: separate;
+}
